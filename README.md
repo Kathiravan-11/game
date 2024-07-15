@@ -1,4 +1,5 @@
 import random
+print("welcome to rock,paper, scissors game")
 rock = '''
     _______
 ---'   ____)
@@ -47,4 +48,4 @@ else:
     print("you win")
   elif user<computer_choice:
     print("you lose")
-# game
+
